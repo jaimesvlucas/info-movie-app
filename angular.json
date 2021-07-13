@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "info-movie-app"
+  "defaultProject": "info-movie-app",
+  "cli": {
+    "analytics": "8c3e7772-2b03-40ef-ada3-6b6330e24ea9"
+  }
 }
